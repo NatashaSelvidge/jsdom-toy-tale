@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SLh3u3QkDii8k9gp_rdW1AAAAA%26pid%3DApi&f=1",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SLh3u3QkDii8k9gp_rdW1AAAAA%26pid%3DApi&f=1",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Jessie",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bRKIjtZgJ9QGprnap43XZgHaOY%26pid%3DApi&f=1",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
